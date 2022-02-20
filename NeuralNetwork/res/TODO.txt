@@ -1,0 +1,4 @@
+What is the most optimal size for the hidden layer? <=>
+What is the minimum size of the hidden layer that produces the quickest learning? <=>
+How much information is required in the hidden layer to most accurately represent the final answer?
+

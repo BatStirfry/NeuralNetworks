@@ -1,5 +1,1 @@
-This is a game engine written in Java using the LWJGL3 library.
-
-Author's Note: I undertook this project for two reasons. One, to learn the Java programming language, and two, to build games. 
-
-Note: The java classes themselves are accompanied by an "rsc" resource folder. In here you may find some files with questionable names. One of the games I attempted to emulate was Wolfenstein 3D.
+This is a project made to emulate basic feed forward and autoencoder neural networks. To read and understand the handwritten digits in the MNIST dataset. This is a learning project, with the pure intention to understand the mathematics behind neural networks and their basic architecture.
